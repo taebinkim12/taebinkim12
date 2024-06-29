@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taebinkim12
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science at the University of Waterloo
-- 📫 Reach me through email at taebinkim12@gmail.com
+- 📫 Reach me through email at kehtb11101@gmail.com
 
 <!---
 taebinkim12/taebinkim12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
